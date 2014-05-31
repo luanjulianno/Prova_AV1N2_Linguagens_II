@@ -1,0 +1,2 @@
+
+A interface do usuário se comunica  com o serviço, depois o serviço se comunica com o back-end solicitando que os dados do serviço sejam salvos no cache, o que permite o uso desses dados offline.
