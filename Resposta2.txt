@@ -1,0 +1,2 @@
+
+No segundo diagrama a interface do usuário solicita  a imagem ao cache  em seguida o cache carrega a imagem em segundo plano as imagens do servidor(internet) e após isso, aplicação retorna com a imagem solicitada.
